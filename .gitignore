@@ -71,3 +71,6 @@ Testing/
 
 # CLion shenanigans
 .idea/
+
+# specific
+*.png
